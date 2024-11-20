@@ -1,4 +1,4 @@
-# scm_project
+# scm-project
 Project Overview
 This project demonstrates how to set up and deploy a full-stack microservices application using modern DevOps practices. The application involves setting up a REST API connected to an MS SQL Server database, containerizing services using Docker, and automating deployments with Jenkins for CI/CD.
 
